@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushmita-Ghosh
 - 👀 I’m interested in Web Development and Front End Developement, with 3.3 years of experience
-- 🌱 I’m currently learning Redux Saga and Graph QL
+- 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on any React JS projects
 - 📫 How to reach me ....
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushmita-Ghosh
 - 👀 I’m interested in Web Development and Front End Developement
-- 🌱 I’m currently learning Node Js/ full stack development
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on any React JS projects
 - 📫 How to reach me ....
 

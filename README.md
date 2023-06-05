@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmita-Ghosh)](https://github.com/Sushmita-Ghosh/github-readme-stats)
 
-![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushmita-Ghosh&show_icons=true&theme=radical)
+![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushmita-Ghosh&show_icons=true&theme=radical&bg_color=00000000)

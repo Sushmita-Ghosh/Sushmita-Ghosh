@@ -1,4 +1,4 @@
-# ✨ About Me
+#### ✨ About Me
 - 👋 Hi, I’m @Sushmita - A Frontend Developer based out of Canada
 - 👀 I’m interested in Web Development and Front End development
 - 🌱 I’m currently learning MERN stack development
@@ -15,5 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmita-Ghosh)](https://github.com/Sushmita-Ghosh/github-readme-stats)-->
 
-# 🔥 Skills:
-![image](https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/7ae09fd5-685a-43f3-b381-ce3554d4f84d)
+#### 🔥 Skills:
+![image](https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/a1c8674a-d822-4aaa-b54b-635f126ef3e3)
+

@@ -1,7 +1,7 @@
 ## ✨ About Me
 - 👋 Hi, I’m @Sushmita - A Frontend Developer based out of Canada
 - 👀 I’m interested in Web Development and Front End development
-- 🌱 I’m currently learning MERN stack 
+- 🌱 I’m currently learning MERN stack development 
 - 💞️ I’m looking to collaborate on any React JS projects
 - 💕 My Portfolio: https://sushmita-portfolio.vercel.app/
 

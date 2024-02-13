@@ -1,6 +1,6 @@
-## ✨ About Me
+# ✨ About Me
 
-# 👋 Hello, I'm Sushmita!
+## 👋 Hello, I'm Sushmita!
 
 I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
 

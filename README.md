@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 <!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sushmita-Ghosh&theme=dark)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sushmita-Ghosh)](https://git.io/streak-stats)
 
-<!-- ![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushmita-Ghosh&show_icons=true&theme=transparent) -->
+ ![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushmita-Ghosh&show_icons=true&theme=transparent)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmita-Ghosh&theme=dark)](https://github.com/Sushmita-Ghosh/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmita-Ghosh&theme=dark)](https://github.com/Sushmita-Ghosh/github-readme-stats) 
 
 ## 🔥 Skills:
 ![image](https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/a1c8674a-d822-4aaa-b54b-635f126ef3e3)

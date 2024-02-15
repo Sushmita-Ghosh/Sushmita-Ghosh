@@ -10,7 +10,7 @@ I have a keen interest in crafting delightful user experiences through Web Devel
 
 ## 🌱 Currently Learning
 
-At the moment, I'm on a learning journey exploring the realms of Python and Django. The world of backend development is opening up new avenues for me, and I'm excited to broaden my skill set.
+At the moment, I'm on a learning journey exploring the realms of Python & Django. The world of backend development is opening up new avenues for me, and I'm excited to broaden my skill set.
 
 ## 💞 Seeking Collaborations
 

@@ -14,7 +14,11 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 |<img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="320" height="240" />| <video src="https://user-images.githubusercontent.com/13440061/129455220-23fa27a2-c8f0-4953-b291-b4893959d5d9.mp4" autoplay width="320" height="240">|<video src="https://user-images.githubusercontent.com/13440061/129455220-23fa27a2-c8f0-4953-b291-b4893959d5d9.mp4" autoplay width="320" height="240">
 
 
-
+<table style="width:100%">
+    <tr>
+        <td valign="middle" align="center">Table once ruled centering</td>
+    </tr>
+</table>
 
 
 ## 🌱 Currently Learning

@@ -36,9 +36,6 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 
 At the moment, I'm on a learning journey exploring the realms of Python and Django. The world of backend development is opening up new avenues for me, and I'm excited to broaden my skill set.
 
-## 💞 Seeking Collaborations
-
-I'm always open to collaborative opportunities, especially on projects involving React JS. Collaboration brings out the best in us, and I believe in the magic that happens when diverse skills come together.
 
 ## 💕 Portfolio
 

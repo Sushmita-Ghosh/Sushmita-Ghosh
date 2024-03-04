@@ -8,7 +8,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 
 | [Chingu Trivia]() | [Word Wave]() |
 | ------------- | ------------- |
-|<video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/724ac856-e3dd-4516-83fd-1c10b6b6c057" width="100" autoplay> | <video src="https://user-images.githubusercontent.com/13440061/129455220-23fa27a2-c8f0-4953-b291-b4893959d5d9.mp4" autoplay width="320" height="240">|
+|![302495662-0dec57be-110c-4309-965f-e11add618e94](https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f)| <video src="https://user-images.githubusercontent.com/13440061/129455220-23fa27a2-c8f0-4953-b291-b4893959d5d9.mp4" autoplay width="320" height="240">|
 
 
 ## 🌱 Currently Learning

@@ -16,8 +16,8 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
   </tr>
     <tr>
         <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="300" height="300" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/amC9JtR634IAAAAC/cute-summer.gif" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/V3780fZK5lAAAAAC/happy-dance.gif" width="240" height="240" /></td>
     </tr>
       <tr>
     <th>Doki Doki Drop Dash</th>
@@ -25,9 +25,9 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Audiophile</th>
   </tr>
         <tr>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/j_PBeio8LRsAAAAC/happy-dance.gif" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/tYS9bZHRNdgAAAAC/kristigocouple2024.gif" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/CKe2GW0ecyIAAAAC/mess-spill.gif" width="240" height="240" /></td>
     </tr>
 </table>
 

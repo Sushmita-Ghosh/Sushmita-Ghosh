@@ -10,24 +10,24 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 
 <table style="width:100%">
  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Big Bites</th>
+    <th>Word Wave</th>
+    <th>Bloom Atlas</th>
   </tr>
     <tr>
         <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="320" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="320" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="320" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
     </tr>
       <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Doki Doki Drop Dash</th>
+    <th>Let's Chat</th>
+    <th>Audiophile</th>
   </tr>
         <tr>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="320" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="320" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="320" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c9ad9927-c20c-4c91-95cc-d440490a2a6f" width="240" height="240" /></td>
     </tr>
 </table>
 

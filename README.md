@@ -55,7 +55,9 @@ You can click the Preview link to take a look at your changes.
 <!---
  ![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushmita-Ghosh&show_icons=true&theme=transparent)
 --->
+<!---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmita-Ghosh)](https://github.com/Sushmita-Ghosh/github-readme-stats) 
+ --->
 
 ## 🔥 Skills:
 ![image](https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/a1c8674a-d822-4aaa-b54b-635f126ef3e3)

@@ -5,7 +5,21 @@
 I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
 
 ## 👀 Projects
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+</style>
 
 
 <table style="width:100%">

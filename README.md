@@ -16,9 +16,9 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Bloom Atlas</th>
   </tr>
     <tr>
-        <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="35%" height="35%" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/amC9JtR634IAAAAC/cute-summer.gif" width="240" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/V3780fZK5lAAAAAC/happy-dance.gif" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="32%" height="32%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/amC9JtR634IAAAAC/cute-summer.gif" width="32%" height="32%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/V3780fZK5lAAAAAC/happy-dance.gif" width="32%" height="32%" /></td>
     </tr>
       <tr>
     <th>Doki Doki Drop Dash</th>
@@ -26,9 +26,9 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Audiophile</th>
   </tr>
         <tr>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/j_PBeio8LRsAAAAC/happy-dance.gif" width="240" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/tYS9bZHRNdgAAAAC/kristigocouple2024.gif" width="240" height="240" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/CKe2GW0ecyIAAAAC/mess-spill.gif" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/j_PBeio8LRsAAAAC/happy-dance.gif" width="32%" height="32%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/tYS9bZHRNdgAAAAC/kristigocouple2024.gif" width="32%" height="32%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/CKe2GW0ecyIAAAAC/mess-spill.gif" width="32%" height="32%" /></td>
     </tr>
 </table>
 

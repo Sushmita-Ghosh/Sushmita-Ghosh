@@ -26,9 +26,9 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Audiophile</th>
   </tr>
         <tr>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/j_PBeio8LRsAAAAC/happy-dance.gif" width="32%" height="32%" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/tYS9bZHRNdgAAAAC/kristigocouple2024.gif" width="32%" height="32%" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/CKe2GW0ecyIAAAAC/mess-spill.gif" width="32%" height="32%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/j_PBeio8LRsAAAAC/happy-dance.gif" width="100%" height="100%"/></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/tYS9bZHRNdgAAAAC/kristigocouple2024.gif" width="100%" height="100%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/CKe2GW0ecyIAAAAC/mess-spill.gif" width="100%" height="100%" /></td>
     </tr>
 </table>
 

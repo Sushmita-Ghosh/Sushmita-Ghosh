@@ -17,7 +17,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Bloom Atlas</th>
   </tr>
     <tr>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5"type="video/mp4" width="100%" height="100%" autoplay ></video></td>
+        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
         <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
         <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
     </tr>

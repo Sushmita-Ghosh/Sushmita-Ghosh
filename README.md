@@ -13,13 +13,13 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 <table style="width:100%" >
  <tr>
     <th>Big Bites</th>
-    <th>Word Wave</th>
+    <th>Let's Chat</th>
     <th>Bloom Atlas</th>
   </tr>
     <tr>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
     </tr>
       <tr>
     <th>Doki Doki Drop Dash</th>
@@ -27,9 +27,9 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Audiophile</th>
   </tr>
         <tr>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
-        <td valign="middle" align="center"><video src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/fbb01d44-c61c-47b1-ac3a-96fbabf962a5" type="video/mp4" width="100%" height="100%" autoplay=true ></video></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></td>
     </tr>
 </table>
 

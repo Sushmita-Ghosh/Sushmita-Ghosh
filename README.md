@@ -22,12 +22,12 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     </tr>
       <tr>
     <th>Doki Doki Drop Dash</th>
-    <th>Let's Chat</th>
+    <th>Chingu Trivia</th>
     <th>Audiophile</th>
   </tr>
         <tr>
         <td valign="middle" align="center"><img src="https://media1.tenor.com/m/j_PBeio8LRsAAAAC/happy-dance.gif" width="100%" height="100%"/></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/tYS9bZHRNdgAAAAC/kristigocouple2024.gif" width="100%" height="100%" /></td>
+        <td valign="middle" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRsemVjcjdmOGlrYmczZGl5YzNxYnFoNmhnMzUxZWd3Nm9tdGUzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EKAjab5bqKG2MFB4Vd/giphy.gif" width="100%" height="100%" /></td>
         <td valign="middle" align="center"><img src="https://media1.tenor.com/m/CKe2GW0ecyIAAAAC/mess-spill.gif" width="100%" height="100%" /></td>
     </tr>
 </table>

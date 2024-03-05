@@ -4,6 +4,7 @@
 
 I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
 
+<!--
 ## 👀 Projects
 
 
@@ -31,7 +32,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
         <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
     </tr>
 </table>
-
+-->
 
 ## 🌱 Currently Learning
 

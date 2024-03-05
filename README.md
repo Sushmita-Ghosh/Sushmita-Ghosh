@@ -9,7 +9,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 
 
 
-<table style="width:100%">
+<table style="width:100%;height:400px;" >
  <tr>
     <th>Big Bites</th>
     <th>Word Wave</th>

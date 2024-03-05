@@ -17,7 +17,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
   </tr>
     <tr>
         <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
-        <td valign="middle" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l3dWlwZW1yOXZjbnZ1eHhuc3Rlbmp6cmp4Y3l6bmg3MDk5dXJ2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xIW0hXkk6YeQyVcF3F/giphy.gif" width="100%" height="100%" /></td>
+        <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
         <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
     </tr>
       <tr>
@@ -27,7 +27,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
   </tr>
         <tr>
         <td valign="middle" align="center"><img src="" width="100%" height="100%"/></td>
-        <td valign="middle" align="center"><img src="https://media.giphy.com/media/EKAjab5bqKG2MFB4Vd/giphy.gif" width="100%" height="100%" /></td>
+        <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
         <td valign="middle" align="center"><img src="" width="100%" height="100%" /></td>
     </tr>
 </table>

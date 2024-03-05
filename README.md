@@ -5,21 +5,8 @@
 I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
 
 ## 👀 Projects
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
 
-th, td {
-  text-align: left;
-  padding: 8px;
-}
 
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-</style>
 
 
 <table style="width:100%">
@@ -29,7 +16,7 @@ tr:nth-child(even) {
     <th>Bloom Atlas</th>
   </tr>
     <tr>
-        <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="240" height="240" /></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="45%" height="45%" /></td>
         <td valign="middle" align="center"><img src="https://media1.tenor.com/m/amC9JtR634IAAAAC/cute-summer.gif" width="240" height="240" /></td>
         <td valign="middle" align="center"><img src="https://media1.tenor.com/m/V3780fZK5lAAAAAC/happy-dance.gif" width="240" height="240" /></td>
     </tr>

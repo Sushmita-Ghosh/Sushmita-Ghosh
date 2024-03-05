@@ -16,9 +16,9 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
     <th>Bloom Atlas</th>
   </tr>
     <tr>
-        <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="32%" height="32%" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/amC9JtR634IAAAAC/cute-summer.gif" width="32%" height="32%" /></td>
-        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/V3780fZK5lAAAAAC/happy-dance.gif" width="32%" height="32%" /></td>
+        <td valign="middle" align="center"><img src="https://media.tenor.com/0tkCPVxDt1kAAAAi/dudu.gif" width="100%" height="100%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/amC9JtR634IAAAAC/cute-summer.gif" width="100%" height="100%" /></td>
+        <td valign="middle" align="center"><img src="https://media1.tenor.com/m/V3780fZK5lAAAAAC/happy-dance.gif" width="100%" height="100%" /></td>
     </tr>
       <tr>
     <th>Doki Doki Drop Dash</th>

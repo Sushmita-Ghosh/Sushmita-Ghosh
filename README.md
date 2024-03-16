@@ -13,7 +13,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
 <table style="width:100%" >
  <tr>
     <th>Big Bites</th>
-    <th>Let's Chat</th>
+    <th>Chit Chat Hub</th>
     <th>Bloom Atlas</th>
   </tr>
     <tr>

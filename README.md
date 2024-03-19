@@ -24,7 +24,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
       <tr>
     <th>Tech Trove</th>
     <th>Chingu Trivia</th>
-    <th>Audiophile</th>
+    <th>Word Wave</th>
   </tr>
         <tr>
         <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>

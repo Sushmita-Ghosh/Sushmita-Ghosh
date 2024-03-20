@@ -14,7 +14,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
  <tr>
     <th>Big Bites</th>
     <th>Chit Chat Hub</th>
-    <th>Bloom Atlas</th>
+    <th>Manage</th>
   </tr>
     <tr>
         <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
@@ -22,7 +22,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
         <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
     </tr>
       <tr>
-    <th>Tech Trove</th>
+    <th>Rock, Paper, Scissors</th>
     <th>Chingu Trivia</th>
     <th>Word Wave</th>
   </tr>

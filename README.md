@@ -21,8 +21,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
         <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
         <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
     </tr>
-
-      <tr>
+     <tr>
     <th>Animal Shelter</th>
     <th>Chingu Trivia</th>
     <th>Word Wave</th>
@@ -33,7 +32,6 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
         <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/bfc20afe-20e9-47aa-afc8-e88c9ee4bcf1" width="100%" height="100%"></td>
     </tr>
 </table>
-
 
 
 ## 🌱 Currently Learning

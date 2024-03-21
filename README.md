@@ -1,4 +1,4 @@
-![wordwave](https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/b93c0cbd-e3d1-48ec-83e5-b6cc2761327a)# ✨ About Me
+# ✨ About Me
 
 ## 👋 Hello, I'm Sushmita!
 

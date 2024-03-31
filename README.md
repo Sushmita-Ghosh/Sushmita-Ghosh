@@ -12,11 +12,11 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
 
 <table style="width:100%" >
  <tr>
-    <th>Big Bites</th>
+    <th>QR Code Generator</th>
     <th>Chit Chat Hub</th>
   </tr>
     <tr>
-        <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/3cd36c19-d817-4462-89c9-522e77cc03c8" width="100%" height="100%"></video></td>
         <td valign="middle" align="center"><img src="https://media.tenor.com/QsxN6R6JzgUAAAAi/coming-soon-coming.gif" width="100%" height="100%"></video></td>
     </tr>
      <tr>

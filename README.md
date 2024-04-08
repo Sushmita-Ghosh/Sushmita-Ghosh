@@ -4,7 +4,7 @@
 
 I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
 
-<div style="display:flex;">
+<div style="display:flex;justify-content:center;">
  <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="50%" height="50%">
 </div>
 

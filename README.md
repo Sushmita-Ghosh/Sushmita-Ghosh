@@ -6,7 +6,7 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 
 
 <p align="center" width="100%">
-    <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="50%" height="50%">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="30%" height="30%">
 </p>
 
 

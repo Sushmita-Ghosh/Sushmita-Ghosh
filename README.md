@@ -33,7 +33,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
     <th>Word Wave</th>
   </tr>
         <tr>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/03ef723c-ccbb-47b9-8a66-384982740fa54" width="100%" height="100%"></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/f4419f32-6da0-49ec-997c-b5ff39957f19" width="100%" height="100%"></td>
         <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/bfc20afe-20e9-47aa-afc8-e88c9ee4bcf1" width="100%" height="100%"></td>
     </tr>
 </table>

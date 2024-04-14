@@ -21,9 +21,11 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
  <tr>
     <th>QR Code Generator</th>
     <th>Password Generator</th>
+    <th>Taskify(In collaboration with Happy Hive)</th>
   </tr>
     <tr>
         <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/3cd36c19-d817-4462-89c9-522e77cc03c8" width="100%" height="100%"></video></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c60d3ddb-81b9-4079-8f1a-1f80673ac066" width="100%" height="100%"></td>
         <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/c60d3ddb-81b9-4079-8f1a-1f80673ac066" width="100%" height="100%"></td>
     </tr>
      <tr>

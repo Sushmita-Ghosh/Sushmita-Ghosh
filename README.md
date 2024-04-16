@@ -4,7 +4,6 @@
 
 I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects
 
-
 <p align="center" width="100%">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%" height="50%">
 </p>
@@ -34,7 +33,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
         <tr>
         <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/f4419f32-6da0-49ec-997c-b5ff39957f19" width="100%" height="100%"></td>
         <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/bfc20afe-20e9-47aa-afc8-e88c9ee4bcf1" width="100%" height="100%"></td>
-        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/bfc20afe-20e9-47aa-afc8-e88c9ee4bcf1" width="100%" height="100%"></td>
+        <td valign="middle" align="center"><img src="https://github.com/Sushmita-Ghosh/Sushmita-Ghosh/assets/82622059/f401bbc0-21e8-48d9-bbb5-b3fea8ebd3ed" width="100%" height="100%"></td>
     </tr>
 </table>
 

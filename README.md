@@ -40,7 +40,7 @@ Soon, this space will feature project videos! Dive deep into the stories behind 
 
 ## 🌱 Currently Learning
 
-At the moment, I'm on a learning journey exploring the realms of Python and Django. The world of backend development is opening up new avenues for me, and I'm excited to broaden my skill set.
+At the moment, I'm on a learning journey exploring the realms of Java and SpringBoot. The world of backend development is opening up new avenues for me, and I'm excited to broaden my skill set.
 
 
 ## 💕 Portfolio

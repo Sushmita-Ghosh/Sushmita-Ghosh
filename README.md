@@ -11,8 +11,6 @@ I'm a passionate Frontend Developer based out of the beautiful land of Canada. M
 
 ## 👀 Projects
 I'm currently on a mission to revamp my portfolio and bring a fresh new look to showcase my journey in the world of technology. Exciting times lie ahead!
-Soon, this space will feature project videos! Dive deep into the stories behind each project, witness the code in action, and join me on this tech adventure.
-
 
 <table style="width:100%" >
  <tr>

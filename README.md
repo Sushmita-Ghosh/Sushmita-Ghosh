@@ -43,7 +43,7 @@ At the moment, I'm on a learning journey exploring the realms of Java and Spring
 
 ## 💕 Portfolio
 
-Feel free to explore my old portfolio: [Sushmita's Portfolio](https://sushmita-portfolio.vercel.app/). It's a showcase of my work and a reflection of the creativity and dedication I bring to each project.
+Feel free to explore my old portfolio: [Sushmita's Portfolio](https://sushmita-portfolio.vercel.app/). It's a showcase of my work and a reflection of my creativity and dedication to each project.
 
 Let's connect, collaborate, and create something amazing together! 🚀✨
 

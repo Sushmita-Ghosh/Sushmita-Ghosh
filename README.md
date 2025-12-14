@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Sushmita!
 
-I'm a passionate Frontend Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
+I'm a passionate Full Stack Developer based out of the beautiful land of Canada. My journey in the world of web development has been an exciting adventure, and I'm here to share my experiences and contribute to innovative projects.
 
 <p align="center" width="100%">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%" height="50%">
